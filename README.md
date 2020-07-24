@@ -1,2 +1,2 @@
-# Dynamic_Protfolio_Managemnet_Using_Reinforcement_learning
+# Dynamic_Portfolio_Managemnet_Using_Reinforcement_learning
 Statistics Capstone Project
